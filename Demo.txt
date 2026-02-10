@@ -1,0 +1,6 @@
+Attended Agentic AI Session by Himanshu
+Prepared Orion use case ppt
+Presented Orion use cases using PPT
+Revised logging module and log levels
+Revised Pydantic BaseModel and field validation
+Solved Leetcode
